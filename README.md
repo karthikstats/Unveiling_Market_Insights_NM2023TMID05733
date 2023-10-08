@@ -9,7 +9,7 @@ Tableau Public Dashboard Link : https://public.tableau.com/views/WholesalerCusto
 
 Tableau Public Story Link : https://public.tableau.com/views/WholesalerCustomerAnalysisStory_16964164720490/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Project Report Link :
+Project Report Link : https://drive.google.com/file/d/1NF-5MSDAM6RIobZaC4uiO-cVqBWd2gzp/view?usp=drivesdk
 
 Project Demonstration Video Link :
 
